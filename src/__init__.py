@@ -1,0 +1,1 @@
+"""HKMU AI Study Assistant."""
